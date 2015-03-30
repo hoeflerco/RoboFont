@@ -1,2 +1,1 @@
-# RoboFont
-RoboFont Tools
+# RoboFont Extensions from Hoefler & Co.
