@@ -4,5 +4,5 @@ This script watches for when a new Space Center window opens, and then removes a
 
 This script is intended to be run when RoboFont starts up, you can add startup scripts to RoboFont from the “Extensions” section of RoboFont’s Preferences window.
 
-![screenshot](spacecenter-removetemplateglyphs.png “Space Center screenshot")
+![screenshot](spacecenter-removetemplateglyphs.png "Space Center screenshot")
 
