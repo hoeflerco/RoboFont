@@ -1,3 +1,5 @@
+from mojo.events import addObserver
+
 class SpaceCenterRemoveTemplateGlyphs(object):
     
     """
